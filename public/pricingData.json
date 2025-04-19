@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "name": "Starter Package",
+      "price": 29,
+      "populer": true,
+      "information": "Perfect for those just beginning their fitness journey.",
+      "features": [
+        "Access to all gym equipment",
+        "Locker facility included",
+        "1 fitness class per week",
+        "Support staff available",
+        "Open 6 days a week",
+        "Free Wi-Fi",
+        "Fitness tracking app access"
+        
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Advanced Package",
+      "price": 49,
+      "information": "Great for consistent fitness lovers who want more support.",
+      "features": [
+        "Unlimited gym access",
+        "Unlimited group fitness classes",
+        "Custom workout plans",
+        "Access to steam & sauna",
+        "Body composition analysis",
+        "Weekend access",
+        "Stretching zone usage"
+        
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Elite Package",
+      "price": 79,
+      "information": "For those who want full benefits and expert guidance.",
+      "features": [
+        "Everything in Advanced Package",
+        "2 Personal training sessions/month",
+        "Nutrition consultation",
+        "VIP class reservations",
+        "24/7 gym access",
+        "Massage therapy (1 per month)",
+        "Priority equipment access"
+        
+      ]
+    }
+  ]
+  
